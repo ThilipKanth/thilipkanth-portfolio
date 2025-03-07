@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thilipkanth-portfolio/static/css/main.dc7b62f9.css",
+    "main.js": "/thilipkanth-portfolio/static/js/main.032a00da.js",
+    "static/js/453.d21d62c5.chunk.js": "/thilipkanth-portfolio/static/js/453.d21d62c5.chunk.js",
+    "index.html": "/thilipkanth-portfolio/index.html",
+    "main.dc7b62f9.css.map": "/thilipkanth-portfolio/static/css/main.dc7b62f9.css.map",
+    "main.032a00da.js.map": "/thilipkanth-portfolio/static/js/main.032a00da.js.map",
+    "453.d21d62c5.chunk.js.map": "/thilipkanth-portfolio/static/js/453.d21d62c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7b62f9.css",
+    "static/js/main.032a00da.js"
+  ]
+}
