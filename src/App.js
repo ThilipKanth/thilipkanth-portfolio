@@ -21,7 +21,7 @@ const App = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="hero-title">Hello, I'm [Your Name]</h1>
+          <h1 className="hero-title">Hello, I'm Thilip Kanth</h1>
           <p className="hero-subtitle">I build modern, elegant, and scalable web applications.</p>
           <a href="#projects" className="cta-button">View My Work</a>
         </motion.div>
